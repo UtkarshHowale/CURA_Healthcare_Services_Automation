@@ -1,0 +1,1488 @@
+12:03:13.182 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+12:03:13.312 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+12:03:13.401 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+12:03:13.521 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender
+12:03:13.671 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+12:03:13.798 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+12:03:14.226 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - pass
+12:09:20.317 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+12:09:20.827 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+12:09:21.735 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Pass
+12:09:21.814 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+12:09:21.881 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+12:09:27.757 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify the result
+12:09:27.851 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Pass
+12:45:23.662 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify Expected result is matching with actual result
+12:49:05.380 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify Expected result is matching with actual result
+13:24:07.581 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - MakeAppointmentButton is displayed
+22:30:02.676 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Verify the result
+22:30:02.809 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - MakeAppointmentButton is displayed
+22:30:24.987 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Verify the result
+22:30:25.098 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - MakeAppointmentButton is displayed
+22:37:34.359 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Homepage Verification
+22:37:34.649 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - MakeAppointmentButton is displayed
+22:37:34.654 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on make appointment button
+22:37:35.251 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on side menu bar
+22:37:35.339 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on login page link
+22:37:35.520 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on side menu bar
+22:37:35.575 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on homepage link
+22:24:13.189 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:24:13.787 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:25:43.957 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:25:44.449 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:25:45.580 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:25:45.644 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:25:51.498 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify the result
+19:46:28.127 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+19:46:28.541 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+19:46:29.436 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+19:46:29.496 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+19:46:35.201 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify the result
+19:47:15.448 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+19:48:01.660 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+19:48:02.135 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+19:48:07.885 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify the result
+19:48:45.135 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+20:18:39.808 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on side menu bar
+20:20:25.774 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on side menu bar
+20:20:25.894 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on login page link
+20:57:22.665 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on make appointment button
+20:57:23.077 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Login to the account
+20:57:28.829 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on side menu panel
+20:57:28.887 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on logout button
+19:55:39.149 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on make appointment button
+19:55:39.491 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Login to the account
+19:55:40.062 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+19:55:40.293 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+19:55:40.633 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Validate the result with comparing expected vs actual
+19:56:44.483 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on make appointment button
+19:56:44.845 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Login to the account
+19:56:45.413 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+19:56:45.645 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+19:56:45.972 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Verify profile page page text
+19:58:00.519 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+19:58:00.748 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+19:58:01.066 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Verify profile page page text
+20:00:41.657 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:00:42.017 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:00:42.637 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+20:00:42.864 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+20:00:43.170 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Verify profile page page text
+20:04:53.348 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:04:53.696 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:05:59.483 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:05:59.831 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:07:50.660 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:07:51.007 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:16:42.470 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:16:42.832 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:19:43.122 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:19:43.468 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:19:44.140 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+20:19:44.367 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+20:19:44.645 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on logout button
+20:19:45.156 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Verify homepage text
+20:23:46.097 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:23:46.443 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:23:47.023 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+20:23:47.253 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+20:23:47.523 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on logout button
+20:23:48.059 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Verify homepage text
+20:42:09.611 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on side panel
+20:42:40.745 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:42:41.106 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:42:41.730 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on side panel
+20:42:41.961 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on history button
+20:42:42.242 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Go to dashboard page
+20:42:42.310 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Verify homepage text
+20:42:42.366 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on side panel
+20:42:42.601 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on history button
+20:42:42.838 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Verify profile page text
+20:43:10.556 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:43:10.903 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:43:11.509 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on side panel
+20:43:11.741 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on history button
+20:43:12.013 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Go to dashboard page
+20:43:12.085 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Verify homepage text
+20:43:12.144 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on side panel
+20:43:12.367 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on history button
+20:43:12.609 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Verify profile page text
+20:44:08.969 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:44:09.315 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:44:09.905 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on side panel
+20:44:10.140 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on history button
+20:44:10.454 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Verify profile page text
+20:44:10.510 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on side panel
+20:44:10.738 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on history button
+20:44:10.963 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Go to dashboard page
+20:44:10.999 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Verify homepage text
+20:56:28.794 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:56:29.166 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:56:29.791 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+20:56:30.071 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+20:56:30.293 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+20:56:30.308 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+20:56:30.544 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+20:56:30.547 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+20:56:31.024 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+20:56:31.051 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+20:57:36.501 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:57:36.840 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:57:37.448 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+20:57:37.722 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+20:57:37.942 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+20:57:37.954 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+20:57:38.184 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+20:57:38.184 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+20:57:38.651 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+20:57:38.679 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+20:59:29.564 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+20:59:29.908 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+20:59:30.502 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+20:59:30.787 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+20:59:31.013 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+20:59:31.025 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+20:59:31.261 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+20:59:31.265 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+20:59:31.745 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+20:59:31.777 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+21:00:41.423 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+21:00:41.789 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+21:00:42.387 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+21:00:42.662 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+21:00:42.882 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+21:00:42.895 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+21:00:43.134 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+21:00:43.135 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+21:00:43.615 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+21:00:43.646 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+21:01:45.956 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+21:01:46.297 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+21:01:46.890 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+21:01:47.158 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+21:01:47.378 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+21:01:47.391 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+21:01:47.622 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+21:01:47.623 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+21:01:48.107 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+21:01:48.134 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+21:02:30.983 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+21:02:31.323 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+21:02:31.948 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+21:02:32.173 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+21:02:52.311 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+21:02:52.534 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+21:02:52.540 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify the result
+22:14:15.097 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+22:14:15.658 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+22:14:16.472 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+22:14:16.761 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+22:14:17.009 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+22:14:17.049 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:14:17.345 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:68) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:33) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:14:17.347 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+22:14:17.859 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+22:14:17.933 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+22:14:18.728 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on side panel
+22:14:18.963 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on history button
+22:14:19.408 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Verify profile page text
+22:14:19.426 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on side panel
+22:14:19.680 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on history button
+22:14:19.942 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Go to dashboard page
+22:14:19.992 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Verify homepage text
+22:14:19.997 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Homepage Verification
+22:14:20.050 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - MakeAppointmentButton is displayed
+22:14:20.055 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on make appointment button
+22:14:21.853 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:14:22.075 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:14:42.178 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:14:42.440 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:14:42.458 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify the result
+22:14:42.504 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on make appointment button
+22:14:42.747 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Login to the account
+22:14:42.762 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on side menu panel
+22:14:43.026 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on logout button
+22:14:44.205 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+22:14:44.447 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+22:15:04.654 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+22:15:04.905 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+22:15:25.193 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on side menu bar
+22:15:25.436 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on login page link
+22:15:28.735 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on side menu bar
+22:15:28.987 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on homepage link
+22:18:59.639 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+22:19:00.087 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+22:19:01.012 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on side menu bar
+22:19:01.247 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on login page link
+22:19:21.528 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on side menu bar
+22:19:21.755 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on homepage link
+22:28:00.086 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+22:28:01.118 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+22:28:02.699 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+22:28:02.939 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+22:28:04.369 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Verify profile page text
+22:28:04.441 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+22:28:04.666 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+22:28:04.924 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on logout button
+22:28:05.728 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Verify homepage text
+22:42:43.025 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:43:44.299 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+22:43:45.230 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+22:43:46.243 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:43:46.466 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:47:18.312 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:47:18.985 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+21:02:59.080 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+21:02:59.464 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+21:03:00.167 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+21:03:00.394 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+21:03:00.966 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify the result
+21:04:38.976 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+21:04:39.342 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+21:04:40.058 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+21:04:40.287 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+21:04:40.848 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify the result
+21:59:59.505 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+21:59:59.601 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+21:59:59.610 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+21:59:59.617 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on make appointment button
+22:01:17.614 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:01:17.989 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:01:18.667 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:01:18.895 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:01:19.453 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify the result
+22:01:19.489 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+22:01:19.745 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+22:01:19.964 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+22:01:19.980 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:01:20.216 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:01:20.220 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+22:01:20.708 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+22:01:20.740 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+22:01:21.180 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on make appointment button
+22:01:21.629 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Login to the account
+22:01:21.657 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on side menu panel
+22:01:21.882 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on logout button
+22:04:09.225 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:04:09.589 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:04:10.326 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:04:10.550 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:04:11.111 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify the result
+22:04:11.143 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+22:04:11.393 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+22:04:11.611 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+22:04:11.623 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:04:11.855 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:04:11.856 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+22:04:12.335 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+22:04:12.370 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+22:04:12.796 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on make appointment button
+22:04:13.084 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Login to the account
+22:04:13.112 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on side menu panel
+22:04:13.340 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on logout button
+22:12:46.682 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:12:47.068 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:12:48.020 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:12:48.252 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:12:48.869 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Verify the result
+22:12:48.906 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+22:12:49.166 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+22:12:49.389 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+22:12:49.409 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:12:49.677 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:12:49.678 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+22:12:50.163 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+22:12:50.216 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+22:12:50.727 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on make appointment button
+22:12:51.052 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Login to the account
+22:12:51.074 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on side menu panel
+22:12:51.310 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on logout button
+22:47:02.693 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on make appointment button
+22:47:03.053 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Logging into the account
+22:54:04.045 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+22:54:04.454 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+22:54:05.260 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+22:54:05.560 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+22:54:05.783 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+22:54:05.796 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:54:06.035 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:54:06.036 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+22:54:06.526 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+22:54:06.558 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+22:54:07.082 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on side panel
+22:54:07.309 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on history button
+22:54:08.653 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Verify profile page text
+22:54:08.660 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on side panel
+22:54:08.888 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Click on history button
+22:54:09.124 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Go to dashboard page
+22:54:09.163 [main] INFO  org.CURAHealthcareService.Tests.HistoryPageTest.Test_HistoryPageFunctionality - Verify homepage text
+22:54:09.168 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Homepage Verification
+22:54:09.214 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - MakeAppointmentButton is displayed
+22:54:09.219 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on make appointment button
+22:54:10.940 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on make appointment button
+22:54:11.161 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Login to the account
+22:54:11.178 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on side menu panel
+22:54:11.397 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on logout button
+22:54:12.276 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+22:54:12.502 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+22:54:32.965 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+22:54:33.189 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+22:54:53.646 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on side menu bar
+22:54:53.871 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on login page link
+22:54:55.000 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on side menu bar
+22:54:55.237 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on homepage link
+22:57:21.919 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+22:57:22.264 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+22:57:22.955 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+22:57:23.228 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+22:57:23.447 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+22:57:23.459 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:57:23.693 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:57:23.694 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+22:57:24.169 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+22:57:24.203 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+22:57:25.561 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Homepage Verification
+22:57:25.619 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - MakeAppointmentButton is displayed
+22:57:25.624 [main] INFO  org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality - Click on make appointment button
+22:57:27.326 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on make appointment button
+22:57:27.566 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Login to the account
+22:57:27.584 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on side menu panel
+22:57:27.815 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on logout button
+22:58:12.169 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+22:58:12.533 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+22:58:13.140 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+22:58:13.406 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+22:58:13.624 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+22:58:13.637 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:58:13.872 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+22:58:13.872 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+22:58:14.356 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+22:58:14.394 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+22:58:14.873 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on make appointment button
+22:58:15.229 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Login to the account
+22:58:15.244 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on side menu panel
+22:58:15.477 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on logout button
+23:01:08.688 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:01:09.068 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:01:09.777 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:01:10.043 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:01:10.265 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:01:10.278 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+23:01:10.519 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+23:01:10.520 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:01:11.000 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:01:11.035 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:01:54.511 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:01:54.917 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:01:55.829 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:01:55.957 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:01:56.029 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:01:56.061 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+23:01:56.157 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+23:01:56.157 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:01:56.323 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:01:56.464 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:05:03.894 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:05:04.309 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:05:05.062 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:05:05.165 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:05:05.234 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:05:05.266 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+23:05:05.335 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:37) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+23:05:05.336 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:05:05.471 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:05:05.559 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:06:07.559 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:06:07.968 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:06:08.697 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:06:08.794 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:06:10.864 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:06:10.880 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:38) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+23:06:10.941 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:38) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+23:06:12.955 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:06:15.077 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:06:17.183 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:07:57.360 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:07:57.753 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:07:58.470 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:08:00.566 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:08:02.618 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:08:02.634 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:39) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+23:08:02.674 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:67) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:39) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+23:08:04.691 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:08:06.808 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:08:08.905 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:09:49.734 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:09:50.134 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:09:50.831 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:09:52.922 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:09:54.976 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:09:54.992 [main] ERROR org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage - Error Occurred
+java.lang.Exception: Radio Element not present
+	at org.CURAHealthcareService.Pages.MakeAppointmentPage.AppointmentPage.Select_HealthCareProgramOption(AppointmentPage.java:72) ~[classes/:?]
+	at org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality(Test_AppointmentBookingFunctionality.java:39) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+23:09:57.045 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:09:59.162 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:10:01.255 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:11:23.829 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:11:24.236 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:11:24.943 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:11:27.034 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:11:29.077 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:11:31.133 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:11:33.239 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:11:35.318 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:12:42.076 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:12:42.461 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:12:43.140 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:12:45.227 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:12:47.284 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:12:49.344 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:12:51.450 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:12:53.524 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:14:12.482 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:14:12.848 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:14:13.550 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:14:13.629 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:14:13.676 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:14:13.744 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:14:13.845 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:14:13.915 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:14:14.303 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on make appointment button
+23:14:14.574 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Login to the account
+23:14:14.632 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on side menu panel
+23:14:14.675 [main] INFO  org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality - Click on logout button
+23:14:59.893 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:15:00.273 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:15:00.970 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:15:01.050 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:15:01.088 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:15:01.163 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:15:01.258 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:15:01.333 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:16:08.878 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:17:01.922 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:17:02.289 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:17:02.970 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:17:03.045 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:17:03.081 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:17:03.152 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:17:03.253 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:17:03.325 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:18:45.255 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:18:45.630 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:18:46.329 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:18:46.412 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:18:46.464 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:18:46.541 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:18:46.645 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:18:46.718 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:19:18.160 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:19:18.567 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:19:19.252 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:19:19.328 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:19:19.365 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:19:19.438 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:19:19.537 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:19:19.609 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+23:24:40.873 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+23:24:41.258 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+23:24:41.945 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+23:24:42.030 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+23:24:42.068 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+23:24:42.141 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+23:24:42.238 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+23:24:42.316 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+12:04:52.408 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+12:04:52.784 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+12:04:53.475 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+12:04:53.560 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+12:04:53.607 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+12:04:53.677 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+12:04:53.776 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+12:04:53.846 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+12:14:27.730 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+12:14:28.369 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+12:14:29.057 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+12:14:29.136 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+12:14:29.180 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+12:14:29.262 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+12:14:29.359 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+12:14:29.434 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details

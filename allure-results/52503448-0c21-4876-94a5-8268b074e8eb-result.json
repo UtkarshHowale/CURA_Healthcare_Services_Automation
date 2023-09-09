@@ -1,0 +1,66 @@
+{
+  "uuid": "52503448-0c21-4876-94a5-8268b074e8eb",
+  "historyId": "6e08655865bcf9c08528ea41e0ca4cd0",
+  "fullName": "org.CURAHealthcareService.Tests.Test_AppointmentBookingFunctionality.BookAppointmentFunctionality",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.Test_AppointmentBookingFunctionality"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.Test_AppointmentBookingFunctionality"
+    },
+    {
+      "name": "testMethod",
+      "value": "BookAppointmentFunctionality"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.Test_AppointmentBookingFunctionality"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "14136@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "owner",
+      "value": "Utkarsh Howale"
+    }
+  ],
+  "links": [],
+  "name": "BookAppointmentFunctionality",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Verify make appointment functionality is working fine or not",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1694100642385,
+  "stop": 1694100644046
+}

@@ -1,0 +1,61 @@
+{
+  "uuid": "fb691745-8c18-4c7c-919e-27f51ff0fadc",
+  "historyId": "d21045c4529caef1a092b4fb71c81aa3",
+  "fullName": "org.CURAHealthcareService.Tests.Test_HomePage.Verify_ValidHomePage",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.Test_HomePage"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.Test_HomePage"
+    },
+    {
+      "name": "testMethod",
+      "value": "Verify_ValidHomePage"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.Test_HomePage"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "12548@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Verify_ValidHomePage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1693243660981,
+  "stop": 1693243661044
+}

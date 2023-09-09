@@ -1,0 +1,61 @@
+{
+  "uuid": "b76f3f29-8670-41c0-92fb-00208a0b311b",
+  "historyId": "53e080e8cd4a6ecb56ae96bbc04895bf",
+  "fullName": "org.CURAHealthcareService.Tests.Test_BookAppointmentFunctionality.test_BookAppointmentFunctionality",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.Test_BookAppointmentFunctionality"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.Test_BookAppointmentFunctionality"
+    },
+    {
+      "name": "testMethod",
+      "value": "test_BookAppointmentFunctionality"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.Test_BookAppointmentFunctionality"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "5828@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "test_BookAppointmentFunctionality",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1693582587215,
+  "stop": 1693582604995
+}

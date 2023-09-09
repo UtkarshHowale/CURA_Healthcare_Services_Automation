@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/Intellj Workspace/CURAHealthcareService">
+        <classes>
+            <class name="org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality">
+                <methods>
+                    <include name="BookAppointmentFunctionality"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

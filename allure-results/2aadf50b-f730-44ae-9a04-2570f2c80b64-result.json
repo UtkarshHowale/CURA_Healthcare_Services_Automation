@@ -1,0 +1,61 @@
+{
+  "uuid": "2aadf50b-f730-44ae-9a04-2570f2c80b64",
+  "historyId": "5471db2ea1e4c87b705aeecd62cd1332",
+  "fullName": "org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality.LogoutFunctionality",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality"
+    },
+    {
+      "name": "testMethod",
+      "value": "LogoutFunctionality"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "E:/Intellj Workspace/CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "12748@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "LogoutFunctionality",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1694105082504,
+  "stop": 1694105084193
+}

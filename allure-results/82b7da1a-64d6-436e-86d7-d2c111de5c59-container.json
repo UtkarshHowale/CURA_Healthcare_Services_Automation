@@ -1,0 +1,12 @@
+{
+  "uuid": "82b7da1a-64d6-436e-86d7-d2c111de5c59",
+  "name": "org.CURAHealthcareService.Tests.Test_LoginFunctionality",
+  "children": [
+    "554acf34-58be-4a98-b3f6-e834aa17f3ae",
+    "25168df8-f0e0-4197-99b4-9bb3b11e5715"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1693329901757,
+  "stop": 1693329920337
+}

@@ -1,0 +1,61 @@
+{
+  "uuid": "386fe152-cb28-4147-bf84-07307bdacf75",
+  "historyId": "232c07d5a73114f54c53f3d76934d77a",
+  "fullName": "org.CURAHealthcareService.Tests.Test_HomePage.test_ClickFunctionalityOfMakeAppointmentButton",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.Test_HomePage"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.Test_HomePage"
+    },
+    {
+      "name": "testMethod",
+      "value": "test_ClickFunctionalityOfMakeAppointmentButton"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.Test_HomePage"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "3056@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "test_ClickFunctionalityOfMakeAppointmentButton",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1693642343407,
+  "stop": 1693642344126
+}

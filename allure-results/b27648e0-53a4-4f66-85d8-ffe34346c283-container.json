@@ -1,0 +1,35 @@
+{
+  "uuid": "b27648e0-53a4-4f66-85d8-ffe34346c283",
+  "name": "Default Suite",
+  "children": [
+    "bf68bfa9-6c88-4066-9872-380d9822e441"
+  ],
+  "befores": [
+    {
+      "name": "setUpMethod",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1693589502265,
+      "stop": 1693589517465
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDownMethod",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1693589520727,
+      "stop": 1693589520868
+    }
+  ],
+  "start": 1693589502243,
+  "stop": 1693589520869
+}

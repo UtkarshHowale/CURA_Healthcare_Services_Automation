@@ -1,0 +1,66 @@
+{
+  "uuid": "139c0dbe-5073-49a8-ac20-b1f708a8fe09",
+  "historyId": "82f150d8a4e3d997e5068150fba7f73d",
+  "fullName": "org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality.VerifyFunctionalityOfMakeAppointmentButton",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality"
+    },
+    {
+      "name": "testMethod",
+      "value": "VerifyFunctionalityOfMakeAppointmentButton"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "E:/Intellj Workspace/CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "12748@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "owner",
+      "value": "Utkarsh Howale"
+    }
+  ],
+  "links": [],
+  "name": "VerifyFunctionalityOfMakeAppointmentButton",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Verify the clicking functionality od make appointment button is working or not ",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1694105060054,
+  "stop": 1694105061846
+}

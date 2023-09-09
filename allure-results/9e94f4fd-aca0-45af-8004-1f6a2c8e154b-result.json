@@ -1,0 +1,66 @@
+{
+  "uuid": "9e94f4fd-aca0-45af-8004-1f6a2c8e154b",
+  "historyId": "2549cd1722c6a2de200a0fd907574ea0",
+  "fullName": "org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality.LogoutFromProfilePage",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "testMethod",
+      "value": "LogoutFromProfilePage"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "E:/Intellj Workspace/CURAHealthcareService/src/test/java/org/CURAHealthcareService/Tests/ProfilePageTest/Test_ProfilePageFunctionality.java"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "6016@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "owner",
+      "value": "Utkarsh Howale"
+    }
+  ],
+  "links": [],
+  "name": "LogoutFromProfilePage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Verify able to logout from the profile page",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1694105884440,
+  "stop": 1694105885728
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "e6c97f4e-5b48-47ed-bcf0-c627879a4cf3",
+  "name": "org.CURAHealthcareService.Tests.SideMenuPanelTest.Test_SideMenuPanel",
+  "children": [
+    "ea52a35e-85aa-4a55-8f76-100f523538e9",
+    "1179f0ab-7826-41d0-b375-2a1a4ee6bbc8"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1694105056359,
+  "stop": 1694105129455
+}

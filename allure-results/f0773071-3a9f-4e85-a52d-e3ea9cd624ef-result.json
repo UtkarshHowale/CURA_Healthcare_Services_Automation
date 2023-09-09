@@ -1,0 +1,61 @@
+{
+  "uuid": "f0773071-3a9f-4e85-a52d-e3ea9cd624ef",
+  "historyId": "97443ad91317cce5401b33a3905d63d",
+  "fullName": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality.LogoutFromProfilePage",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "testMethod",
+      "value": "LogoutFromProfilePage"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "14484@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "LogoutFromProfilePage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1694097471598,
+  "stop": 1694097472584
+}

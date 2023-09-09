@@ -1,0 +1,43 @@
+{
+  "uuid": "b39f8d66-e008-4883-b8d8-7bf94ae485c5",
+  "name": "Default Suite",
+  "children": [
+    "101082c6-aacc-4968-b483-02554e2b7439",
+    "aa81dedc-af9e-4e31-8669-5853f37976a1"
+  ],
+  "befores": [
+    {
+      "name": "setUpMethod",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694106631891,
+      "stop": 1694106762946
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDownMethod",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "Unable to establish websocket connection to http://127.0.0.1:47122/devtools/browser/f2d3bc82-2a2c-4e78-88a4-a97fcf6c6c51\nBuild info: version: '4.11.0', revision: '040bc5406b'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'\nDriver info: driver.version: FirefoxDriver",
+        "trace": "org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://127.0.0.1:47122/devtools/browser/f2d3bc82-2a2c-4e78-88a4-a97fcf6c6c51\nBuild info: version: '4.11.0', revision: '040bc5406b'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'\nDriver info: driver.version: FirefoxDriver\r\n\tat org.openqa.selenium.remote.http.netty.NettyWebSocket.<init>(NettyWebSocket.java:116)\r\n\tat org.openqa.selenium.remote.http.netty.NettyWebSocket.lambda$create$3(NettyWebSocket.java:147)\r\n\tat org.openqa.selenium.remote.http.netty.NettyClient.openSocket(NettyClient.java:104)\r\n\tat org.openqa.selenium.devtools.Connection.<init>(Connection.java:83)\r\n\tat org.openqa.selenium.firefox.FirefoxDriver.maybeGetDevTools(FirefoxDriver.java:334)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:426)\r\n\tat org.openqa.selenium.firefox.FirefoxDriver.quit(FirefoxDriver.java:392)\r\n\tat org.CURAHealthcareService.Driver.DriverManager.closeDriver(DriverManager.java:88)\r\n\tat org.CURAHealthcareService.BaseTest.BaseTest.tearDownMethod(BaseTest.java:47)\r\n\tat java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:578)\r\n\tat org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)\r\n\tat org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)\r\n\tat org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)\r\n\tat org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:410)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:336)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1200)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1114)\r\n\tat org.testng.TestNG.run(TestNG.java:1082)\r\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)\r\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)\r\n"
+      },
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694106763743,
+      "stop": 1694106763764
+    }
+  ],
+  "start": 1694106631876,
+  "stop": 1694106763768
+}

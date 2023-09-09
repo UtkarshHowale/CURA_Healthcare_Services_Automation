@@ -1,0 +1,13 @@
+{
+  "uuid": "c072732c-414c-4208-9a95-4582841232b4",
+  "name": "org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality",
+  "children": [
+    "52cfcd7b-56ab-410d-ab94-a05c4d5a0776",
+    "348379ff-9ad7-4585-ad95-7afacbc7a459",
+    "139c0dbe-5073-49a8-ac20-b1f708a8fe09"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1694105056359,
+  "stop": 1694105129453
+}

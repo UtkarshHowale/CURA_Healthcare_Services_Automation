@@ -1,0 +1,61 @@
+{
+  "uuid": "c9965d51-ac00-46a8-8b28-d4df769be24f",
+  "historyId": "5fe6445b19f6e70ff492ed8b34463dbe",
+  "fullName": "org.CURAHealthcareService.Tests.Test_HomePage.test_VisitToLoginPageFromMenuBar",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.Test_HomePage"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.Test_HomePage"
+    },
+    {
+      "name": "testMethod",
+      "value": "test_VisitToLoginPageFromMenuBar"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.Test_HomePage"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "20288@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "test_VisitToLoginPageFromMenuBar",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1693760425945,
+  "stop": 1693760426479
+}

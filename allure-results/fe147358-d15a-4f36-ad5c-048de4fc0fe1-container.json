@@ -1,0 +1,11 @@
+{
+  "uuid": "fe147358-d15a-4f36-ad5c-048de4fc0fe1",
+  "name": "org.CURAHealthcareService.Tests.AppointmentBookingPage.Test_AppointmentBookingFunctionality",
+  "children": [
+    "2e1feb2a-81d5-4195-ba14-2b11ba8f79bf"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1694100706838,
+  "stop": 1694100708644
+}

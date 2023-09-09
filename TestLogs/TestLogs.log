@@ -1,0 +1,77 @@
+12:19:25.820 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+12:19:26.189 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+12:19:26.870 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+12:19:26.944 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+12:19:26.989 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+12:19:27.060 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+12:19:27.157 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+12:19:27.226 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+13:44:59.793 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+13:45:00.178 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+13:45:00.886 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+13:45:00.964 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+13:45:01.011 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+13:45:01.081 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+13:45:01.175 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+13:45:01.244 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+13:45:01.602 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on side manual panel
+13:45:01.640 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on logout button
+13:45:40.050 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+13:45:40.429 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+13:45:41.101 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+13:45:41.174 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+13:45:41.223 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+13:45:41.290 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+13:45:41.389 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+13:45:41.457 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+13:45:41.797 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on side manual panel
+13:45:41.839 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on logout button
+13:46:17.880 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+13:46:18.249 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+13:46:18.933 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+13:46:19.011 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+13:46:19.068 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+13:46:19.130 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+13:46:19.237 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+13:46:19.316 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+13:46:19.657 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on side manual panel
+13:46:19.695 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on logout button
+13:50:17.138 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+13:50:17.520 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+13:50:18.217 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+13:50:18.295 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+13:50:18.349 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+13:50:18.416 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+13:50:18.508 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+13:50:18.577 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+13:50:18.909 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on side manual panel
+13:50:18.950 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on logout button
+13:50:19.499 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - User logout successfully
+13:51:00.223 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+13:51:00.586 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+13:51:01.282 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+13:51:01.363 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+13:51:01.420 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+13:51:01.484 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+13:51:01.576 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+13:51:01.644 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+13:51:01.985 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on side manual panel
+13:51:02.023 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on logout button
+13:51:02.577 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - User logout successfully
+14:53:46.237 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+14:53:46.764 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+14:53:47.809 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on side panel
+14:53:47.885 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on profile button
+14:53:48.273 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Click on logout button
+14:53:49.000 [main] INFO  org.CURAHealthcareService.Tests.ProfilePageTest.Test_ProfilePageFunctionality - Verify homepage text
+14:55:02.187 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Click on make appointment button
+14:55:02.628 [main] INFO  org.CURAHealthcareService.BaseTest.BaseTest - Login into account
+14:55:03.704 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select Facility FromDropdown
+14:55:03.831 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HospitalReadmission Checkbox
+14:55:03.909 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Select HealthCareProgram Option
+14:55:04.006 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Choose VisitDate From Calender 
+14:55:04.159 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Enter Comment In Comment Box
+14:55:04.289 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Submit Appointment Details
+14:55:04.792 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on side manual panel
+14:55:04.872 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - Click on logout button
+14:55:05.490 [main] INFO  org.CURAHealthcareService.Tests.LoginTest.Test_LoginFunctionality - User logout successfully

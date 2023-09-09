@@ -1,0 +1,63 @@
+{
+  "uuid": "20176534-2c39-45ae-9164-3155b6696022",
+  "historyId": "97443ad91317cce5401b33a3905d63d",
+  "fullName": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality.LogoutFromProfilePage",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "testMethod",
+      "value": "LogoutFromProfilePage"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "12692@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "LogoutFromProfilePage",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Element <a href=\"authenticate.php?logout\"> could not be scrolled into view\nBuild info: version: '4.11.0', revision: '040bc5406b'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCommand: [06f9bf37-08a8-4cc0-9796-a4ee4514235f, clickElement {id=897a9942-62c4-4455-bafc-5b2eb8688a63}]\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 117.0, moz:accessibilityChecks: false, moz:buildID: 20230824132758, moz:debuggerAddress: 127.0.0.1:9972, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 10212, moz:profile: C:\\Users\\Sarvesh\\AppData\\Lo..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:9972/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nElement: [[FirefoxDriver: firefox on windows (06f9bf37-08a8-4cc0-9796-a4ee4514235f)] -> xpath: //a[normalize-space()='Logout']]\nSession ID: 06f9bf37-08a8-4cc0-9796-a4ee4514235f",
+    "trace": "org.openqa.selenium.ElementNotInteractableException: Element <a href=\"authenticate.php?logout\"> could not be scrolled into view\nBuild info: version: '4.11.0', revision: '040bc5406b'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCommand: [06f9bf37-08a8-4cc0-9796-a4ee4514235f, clickElement {id=897a9942-62c4-4455-bafc-5b2eb8688a63}]\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 117.0, moz:accessibilityChecks: false, moz:buildID: 20230824132758, moz:debuggerAddress: 127.0.0.1:9972, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 10212, moz:profile: C:\\Users\\Sarvesh\\AppData\\Lo..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:9972/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nElement: [[FirefoxDriver: firefox on windows (06f9bf37-08a8-4cc0-9796-a4ee4514235f)] -> xpath: //a[normalize-space()='Logout']]\nSession ID: 06f9bf37-08a8-4cc0-9796-a4ee4514235f\r\n\tat java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)\r\n\tat org.CURAHealthcareService.BasePage.BasePage.clickElement(BasePage.java:22)\r\n\tat org.CURAHealthcareService.Pages.ProfilePage.ProfilePage.Logout_Button(ProfilePage.java:39)\r\n\tat org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality.LogoutFromProfilePage(Test_ProfilePageFunctionality.java:38)\r\n\tat java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:578)\r\n\tat org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)\r\n\tat org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)\r\n\tat org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)\r\n\tat org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)\r\n\tat org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)\r\n\tat org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)\r\n\tat org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)\r\n\tat org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:848)\r\n\tat org.testng.TestRunner.run(TestRunner.java:621)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:443)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:336)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1200)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1114)\r\n\tat org.testng.TestNG.run(TestNG.java:1082)\r\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)\r\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1694097360411,
+  "stop": 1694097360962
+}

@@ -1,0 +1,61 @@
+{
+  "uuid": "5f9d00b4-eff3-49d6-8956-dd4e812c2646",
+  "historyId": "c767a31a631f5a8ea65ad505f52f85b1",
+  "fullName": "org.CURAHealthcareService.Tests.Test_HistoryPageFunctionality.GoToDashboardFromHistoryPage",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.Test_HistoryPageFunctionality"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.Test_HistoryPageFunctionality"
+    },
+    {
+      "name": "testMethod",
+      "value": "GoToDashboardFromHistoryPage"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.Test_HistoryPageFunctionality"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "7960@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "GoToDashboardFromHistoryPage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1694099650510,
+  "stop": 1694099651003
+}

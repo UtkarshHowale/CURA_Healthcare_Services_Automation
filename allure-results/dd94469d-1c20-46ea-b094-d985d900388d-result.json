@@ -1,0 +1,61 @@
+{
+  "uuid": "dd94469d-1c20-46ea-b094-d985d900388d",
+  "historyId": "8c9702d42d5600899387917984d5bf83",
+  "fullName": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality.ProfilePageText",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "testMethod",
+      "value": "ProfilePageText"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.Test_ProfilePageFunctionality"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "6600@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "ProfilePageText",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1694097042635,
+  "stop": 1694097043173
+}

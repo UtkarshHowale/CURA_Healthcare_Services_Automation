@@ -1,0 +1,35 @@
+{
+  "uuid": "64b97bac-5540-45a1-b175-0b7d240eb743",
+  "name": "All Test Suite",
+  "children": [
+    "21392cba-7311-4096-bc66-d478a7b1fffa"
+  ],
+  "befores": [
+    {
+      "name": "setUpMethod",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694105044500,
+      "stop": 1694105056342
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDownMethod",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694105129462,
+      "stop": 1694105133079
+    }
+  ],
+  "start": 1694105044463,
+  "stop": 1694105133079
+}

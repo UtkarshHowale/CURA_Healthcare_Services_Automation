@@ -1,0 +1,24 @@
+{
+  "uuid": "48c777ca-5e6b-4734-970a-cba772186cd9",
+  "name": "org.CURAHealthcareService.BaseTest.BaseTest.tearDownMethod",
+  "children": [
+    "9af3a1cf-e834-40ca-8958-25c3a819fea7"
+  ],
+  "description": "",
+  "befores": [],
+  "afters": [
+    {
+      "name": "tearDownMethod",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1693070403752,
+      "stop": 1693070403937
+    }
+  ],
+  "start": 1693070403751,
+  "stop": 1693070403937
+}

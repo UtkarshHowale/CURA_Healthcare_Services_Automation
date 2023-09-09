@@ -1,0 +1,24 @@
+{
+  "uuid": "dae115e9-689e-4581-bebd-4700a62e4ac9",
+  "name": "org.CURAHealthcareService.BaseTest.BaseTest.setUpMethod",
+  "children": [
+    "fb42f87d-c723-499f-abb0-4932ca33ee9d"
+  ],
+  "description": "",
+  "befores": [
+    {
+      "name": "setUpMethod",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1693241222532,
+      "stop": 1693241235231
+    }
+  ],
+  "afters": [],
+  "start": 1693241222532,
+  "stop": 1693241235232
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "fcbbb5f8-1f40-46a8-82c1-4876c6250463",
+  "name": "org.CURAHealthcareService.Tests.Test_AppointmentConformationPage",
+  "children": [
+    "6f35a9ad-493b-4c95-bca3-25f4ef5b4ae8"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1693844720654,
+  "stop": 1693844741327
+}

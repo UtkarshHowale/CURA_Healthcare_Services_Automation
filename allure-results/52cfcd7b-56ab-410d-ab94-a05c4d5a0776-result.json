@@ -1,0 +1,66 @@
+{
+  "uuid": "52cfcd7b-56ab-410d-ab94-a05c4d5a0776",
+  "historyId": "afb278cfb1e44a7ea06768593e4d6772",
+  "fullName": "org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality.HomePageText",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality"
+    },
+    {
+      "name": "testMethod",
+      "value": "HomePageText"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "E:/Intellj Workspace/CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.HomePageTest.Test_HomePage_Functionality"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "12748@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "owner",
+      "value": "Utkarsh Howale"
+    }
+  ],
+  "links": [],
+  "name": "HomePageText",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Verify we are on the correct homepage or not",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1694105059997,
+  "stop": 1694105060010
+}

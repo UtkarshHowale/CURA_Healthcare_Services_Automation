@@ -1,0 +1,61 @@
+{
+  "uuid": "0e7bf471-7ede-43a2-9e38-3c3872b50a4e",
+  "historyId": "d530255dac20a3bb765c15ff13b80dc",
+  "fullName": "org.CURAHealthcareService.Tests.Test_LoginFunctionality.Valid_LoginTest",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.CURAHealthcareService.Tests.Test_LoginFunctionality"
+    },
+    {
+      "name": "testClass",
+      "value": "org.CURAHealthcareService.Tests.Test_LoginFunctionality"
+    },
+    {
+      "name": "testMethod",
+      "value": "Valid_LoginTest"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CURAHealthcareService"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.CURAHealthcareService.Tests.Test_LoginFunctionality"
+    },
+    {
+      "name": "host",
+      "value": "Asus"
+    },
+    {
+      "name": "thread",
+      "value": "13276@Asus.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Valid_LoginTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1693501050569,
+  "stop": 1693501056279
+}

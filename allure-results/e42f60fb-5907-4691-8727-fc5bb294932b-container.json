@@ -1,0 +1,12 @@
+{
+  "uuid": "e42f60fb-5907-4691-8727-fc5bb294932b",
+  "name": "CURAHealthcareService",
+  "children": [
+    "ca27c260-79cb-44a9-9fdc-0bc75ff535ef",
+    "930dd8f7-b7b1-4c49-94ca-ca6c6e6ee230"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1693588083511,
+  "stop": 1693588124265
+}

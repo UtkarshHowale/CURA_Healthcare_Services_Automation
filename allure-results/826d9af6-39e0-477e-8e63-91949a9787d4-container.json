@@ -1,0 +1,11 @@
+{
+  "uuid": "826d9af6-39e0-477e-8e63-91949a9787d4",
+  "name": "org.CURAHealthcareService.Tests.LogoutTest.Test_Logout_Functionality",
+  "children": [
+    "2aadf50b-f730-44ae-9a04-2570f2c80b64"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1694105056359,
+  "stop": 1694105129447
+}
